@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+color:#202020; font:Georgia, "Times New Roman", Times, serif, Arial, "MS Trebuchet", sans-serif;
+
+/* IE10 */ 
+background-image: -ms-linear-gradient(top, #CCCCCC 0%, #FFFFFF 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #CCCCCC 0%, #FFFFFF 100%);
+
+/* Opera */ 
+background-image: -o-linear-gradient(top, #CCCCCC 0%, #FFFFFF 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #CCCCCC), color-stop(1, #FFFFFF));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #CCCCCC 0%, #FFFFFF 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: linear-gradient(to bottom, #CCCCCC 0%, #FFFFFF 100%);}
+
+body b, a {color:#cc6600}
+body h1 {color:#cc6600; font-size:18px;}
+
+#Article{padding:10px 0 10px 30px;width:650px;min-height:75px;}
+#Article #sidebar{margin-top:10px;max-width:180px;overflow:hidden;width:180px; float:left; height:100%;}
+#Article #ArticleText{margin:10px 10px 0 0;width:430px;float:right;}
+#Article #Caption {font-size:12px; float:right;}
+
+#Article .menu {border-top:1px dotted #000;margin:10px 0;padding:5px 0 0;}
+#Article .menu ul {line-height:17px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;padding:0}
+#Article .menu li {border-left:1px solid #000;display:inline;font-size:11px !important;margin:10px 2px 0 0;padding-left:8px}
+#Article .menu .firstChild {border-left:none;padding-left:2px}
+
+.sprite {background-image:url(images/sprites.gif);background-repeat:no-repeat;padding-left:17px}
+.sprite.Comment {background-position: 0 -480px;}
+.sprite.Email{background-position: 0 -254px;}
+.sprite.Print{background-position: 0 -300px;}
+.sprite.Share{background-position: 0 -345px;}
+.sprite.iconIncrease{background-position: 0 -390px;}
+.sprite.iconDecrease{background-position: 0 -435px;}
+.sprite.Photo {background-position: 0 -390px}
+
+

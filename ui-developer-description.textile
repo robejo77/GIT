@@ -1,0 +1,44 @@
+h1. UI Developer
+
+h3. Introduction
+
+Cox Media Group Digital is a Python shop, and we’re building one of the largest Django apps ever – scaled to serve web, mobile, and more for 100+ prominent newspaper, TV and radio sites. You will design, code, modify, review, test, debug, document, and implement mission critical applications and features.
+
+We’ve got the mentality of an independent startup along with the backing of an integrated broadcasting, publishing and digital media company with revenues exceeding $1.5 billion. We are building a collaborative culture, and expect you to contribute your knowledge and expertise to the product development process from start to finish. We do what it takes to produce a superior product and we have a lot of fun getting that job done.
+
+h3. We offer the following
+
+* Team committed to open source software and culture
+* An environment where geeks can be themselves; sharing and learning are encouraged (seminars on ranging from HTML5 video to wilderness medicine)
+
+h3. You fit these ideal points
+
+* Enjoy an active, agile, and jovial team environment
+* Passionate about web standards, usability, human-computer interaction, and information architecture
+* Solid communicator, student and teacher; loves to learn and share knowledge
+* You're passionate and positive, self-starting, and a perfectionist who's comfortable with deadlines
+* Someone who enjoys learning new programming languages or editors
+* Familiarity with emerging web trends (HTML5, CSS3, responsive design, node.js, etc)
+* Django expertise desired, understanding of web frameworks required
+* Contribution to an open-source project (code, documentation, or advocacy) huge bonus
+
+h3. Primary responsibilities
+
+* Develop high quality, standards based, valid front-end code using HTML, CSS, JavaScript and other technologies or languages
+* Evaluate visual designs and develop production implementations for our CMS and other applications
+* Integrate existing solutions with 3rd party services, and re-factor products
+* Provide thorough documentation of processes and standards, assist in QA testing
+* Handle multiple projects concurrently
+* Other duties as assigned
+
+h3. Qualifications
+
+* 2 years of user interface development or information architecture experience; Bachelor's degree or equivalent experience
+* Demonstrated experience developing usable, performance tuned, standards compliant interfaces
+* Expert advanced hand-coded HTML, CSS, and JavaScript; demonstrated knowledge of Django framework a plus
+* Graphic design skills using Adobe Photoshop
+* Working knowledge of source control; we use git
+
+h3. About Cox Media Group
+
+Cox Media Group, Inc., a subsidiary of Atlanta-based Cox Enterprises, is an integrated broadcasting, publishing and digital media company that includes the national advertising rep firms of Cox Reps. With $1.8 billion in revenue, the company operations include 15 broadcast television stations and one local cable channel, 86 radio stations, four metro newspapers and more than a dozen non-daily publications, and more than 100 digital services. Additionally, CMG owns and operates Valpak, one of the leading direct marketing companies in North America. For more information about Cox Media Group, please check us out online at www.coxmediagroup.com.
